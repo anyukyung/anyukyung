@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=ECECEC&height=200&section=header&text=🐚&nbsp;yu%20kyung&nbsp;✨&fontSize=60&fontColor=FFFFFF&animation=twinkling)  
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=anyukyung" height="165">
 
 ### ✦&nbsp; interested in  
