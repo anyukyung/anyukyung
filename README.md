@@ -2,7 +2,7 @@
 
 ### ✦&nbsp; interested in  
 
-`iOS` `App Sevice Development` `UX・UI Design`  
+`iOS` `App Service Development` `UX・UI Design`  
 ### ✦&nbsp; major in  
 `Service Design Engineering` `Computer Engineering`  
 
