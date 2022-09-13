@@ -10,11 +10,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ### 👀 How To Reach Me
-</a> <a href="1018dbrud@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1018dbrud@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1018dbrud@gmail.com)](mailto:1018dbrud@gmail.com)
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&logo=&link=https://velog.io/@toma)](https://velog.io/@toma)
 </div>
 
